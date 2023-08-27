@@ -10,6 +10,14 @@ function App() {
         <h1>Weather App</h1>
         <Weather />
       </header>
+      <footer>
+        <small>
+          This project is coded by Arlene Runyon and is {""}
+          <a href="https://github.com/Atomreirun/weather-react">
+            Open-sourced on Github {""}
+          </a>
+        </small>
+      </footer>
     </div>
   );
 }
